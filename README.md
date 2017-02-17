@@ -1,3 +1,3 @@
-# CatalogBundle
+# GeneratorBundle
 
-Subtree split of main WellCommerce repository
+Provider common class generators used in WellCommerce.
